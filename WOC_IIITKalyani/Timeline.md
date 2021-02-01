@@ -1,5 +1,7 @@
 # Timeline for Winter of Code 1.0 by [@dsc-iiit-kalyani](https://github.com/DSC-IIIT-Kalyani)
 
+|| Given are approximate dates until when the tasks below each are expected to be completed ||
+
 ### Feb 7
 * Work on separating frames and sending them to the client
 * Identifying changes and sending them 
