@@ -1,24 +1,29 @@
-import socket, cv2, pickle,struct
+import socket
+import cv2
+import pickle
+import struct
 
-# Socket Create
+#creating socket
 server_socket = socket.socket(socket.AF_INET,socket.SOCK_STREAM)
+
+#the below is applicable for local host
 host_name  = socket.gethostname()
 host_ip = socket.gethostbyname(host_name)
 print('HOST IP:',host_ip)
 port = 9999
 socket_address = (host_ip,port)
 
-# Socket Bind
+#binding socket
 server_socket.bind(socket_address)
 
-# Socket Listen
+#listening to socket [increase value to 15 incase of valueError]
 server_socket.listen(5)
-print("LISTENING AT:",socket_address)
+print("Server port:",socket_address)
 
-# Socket Accept
+#accepting client socket connections
 while True:
     client_socket,addr = server_socket.accept()
-    print('GOT CONNECTION FROM:',addr)
+    print('Connected to:',addr)
     if client_socket:
         vid = cv2.VideoCapture(0)
         
@@ -28,7 +33,9 @@ while True:
             message = struct.pack("Q",len(a))+a
             client_socket.sendall(message)
             
-            cv2.imshow('TRANSMITTING VIDEO',frame)
+            cv2.imshow('Video transmission',frame)
+
+	    #press esc to exit
             key = cv2.waitKey(1) & 0xFF
             if key ==ord('q'):
                 client_socket.close()
