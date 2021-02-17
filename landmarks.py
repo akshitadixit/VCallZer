@@ -5,7 +5,7 @@ import dlib
 detector = dlib.get_frontal_face_detector()
 
 # Load the predictor
-predictor = dlib.shape_predictor("C://Users//Gaurav//Downloads//shape_predictor_68_face_landmarks.dat")
+predictor = dlib.shape_predictor("shape_predictor_68_face_landmarks.dat")
 
 # read the image
 cap = cv2.VideoCapture(0)
