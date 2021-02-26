@@ -27,7 +27,7 @@ while True:
     detector = dlib.get_frontal_face_detector()
 
     # Load the predictor
-    predictor = dlib.shape_predictor("C://Users//Gaurav//Downloads//shape_predictor_81_face_landmarks.dat")
+    predictor = dlib.shape_predictor("shape_predictor_81_face_landmarks.dat")
 
     if client_socket:
         cap = cv2.VideoCapture(0)
