@@ -11,7 +11,7 @@ A screenshot of the connected system is shown below:
 * Create a [Conda](https://docs.conda.io/en/latest/miniconda.html) environment 
 > conda create -name myenv python=3.6 
 * Cd into your newly created environment (from command line)
-> cd <path-to-your-conda-environment>
+> cd C:\...\path-to-your-conda-environment\
 
 > conda activate myenv
 * Installing modules we will need
