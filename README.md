@@ -26,3 +26,6 @@ A screenshot of the connected system is shown below:
 * Run server.py and client.py in two different cmd windows/terminals
 
 ##### Note: The voice modulation and GUI part is still being worked upon.
+
+## Overall winner
+![Cert](https://github.com/akshitadixit/VCallZer/blob/main/temp/WoC.png) 
