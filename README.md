@@ -161,5 +161,3 @@ Now submit the pull request.
 
 ## Overall winner
 ![Cert](https://github.com/akshitadixit/VCallZer/blob/main/temp/WoC.png) 
-
-
