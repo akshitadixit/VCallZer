@@ -6,6 +6,11 @@
 A screenshot of the connected system is shown below:
 <br/>![ss](https://github.com/akshitadixit/VCallZer/blob/main/temp/ss.jpeg)
 
+## To-Do List/ In Progress
+* Add documentation #2
+* Transfer audio over the connection #3
+* Improve facial landmark detection #8
+ 
 ## Setting up
 
 * Create a [Conda](https://docs.conda.io/en/latest/miniconda.html) environment 
@@ -157,7 +162,4 @@ Now submit the pull request.
 ## Overall winner
 ![Cert](https://github.com/akshitadixit/VCallZer/blob/main/temp/WoC.png) 
 
-## To-Do List/ In Progress
-* Add documentation #2
-* Transfer audio over the connection #3
-* Improve facial landmark detection #8 
+
