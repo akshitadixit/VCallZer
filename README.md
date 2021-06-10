@@ -33,6 +33,9 @@ A screenshot of the connected system is shown below:
 ## Our valuable Contributors👩‍💻👨‍💻 :
 | | | | | |
 |:--:|:--:|:--:|:--:|:--:|
+
+|<a href="https://github.com/supzi-del"><img src="https://avatars.githubusercontent.com/u/78655439?v=4" height="150px" width="150px"></a>| <a href="https://github.com/akshitadixit"><img src="https://avatars.githubusercontent.com/u/56997545?v=4" height="150px" width="150px"></a>| <a href="https://github.com/akshitadixit"><img src="https://avatars.githubusercontent.com/u/56997545?v=4" height="150px" width="150px"></a>| <a href="https://github.com/akshitadixit"><img src="https://avatars.githubusercontent.com/u/56997545?v=4" height="150px" width="150px"></a>| <a href="https://github.com/akshitadixit"><img src="https://avatars.githubusercontent.com/u/56997545?v=4" height="150px" width="150px"></a>|
+
 |<a href="https://github.com/akshitadixit"><img src="https://avatars.githubusercontent.com/u/56997545?v=4" height="150px" width="150px"></a>| <a href="https://github.com/ShivaSankeerth"><img src="https://avatars.githubusercontent.com/u/29270279?v=4" height="150px" width="150px"></a>| <a href="https://github.com/akshitadixit"><img src="https://avatars.githubusercontent.com/u/56997545?v=4" height="150px" width="150px"></a>| <a href="https://github.com/akshitadixit"><img src="https://avatars.githubusercontent.com/u/56997545?v=4" height="150px" width="150px"></a>| <a href="https://github.com/akshitadixit"><img src="https://avatars.githubusercontent.com/u/56997545?v=4" height="150px" width="150px"></a>|
 
 
@@ -155,6 +158,7 @@ Now submit the pull request.
 
 ## Till Then 
 <p align="center"><img src="https://thumbs.dreamstime.com/b/keep-learning-word-written-wood-block-text-table-concept-175173431.jpg" width=50%></p>
+
 
 
 ##### Note: The voice modulation and GUI part is still being worked upon.
