@@ -34,3 +34,8 @@ A screenshot of the connected system is shown below:
 
 ## Overall winner
 ![Cert](https://github.com/akshitadixit/VCallZer/blob/main/temp/WoC.png) 
+
+## To-Do List/ In Progress
+* Add documentation #2
+* Transfer audio over the connection #3
+* Improve facial landmark detection #8 
