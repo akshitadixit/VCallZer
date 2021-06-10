@@ -11,6 +11,6 @@ jobs:
     steps:
     - uses: actions/first-interaction@v1
       with:
-        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        repo-token: ${{ secrets.PAT }}
         issue-message: "Hey **#** welcome to the repo, good to see you created your first issue here!"
         pr-message: "Hey **#** welcome to VCallZer, glad to have your first pull request to the repo! Make sure you add a contribution to issue #4 after this PR if already not done."
