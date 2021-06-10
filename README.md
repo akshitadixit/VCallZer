@@ -25,6 +25,11 @@ A screenshot of the connected system is shown below:
 * Make sure your clone resides into the conda environment you created
 * Run server.py and client.py in two different cmd windows/terminals
 
+## Our valuable Contributors👩‍💻👨‍💻 :
+| | | | | |
+|:--:|:--:|:--:|:--:|:--:|
+|<a href="https://github.com/akshitadixit"><img src="https://avatars.githubusercontent.com/u/56997545?v=4" height="150px" width="150px"></a>| <a href="https://github.com/akshitadixit"><img src="https://avatars.githubusercontent.com/u/56997545?v=4" height="150px" width="150px"></a>| <a href="https://github.com/akshitadixit"><img src="https://avatars.githubusercontent.com/u/56997545?v=4" height="150px" width="150px"></a>| <a href="https://github.com/akshitadixit"><img src="https://avatars.githubusercontent.com/u/56997545?v=4" height="150px" width="150px"></a>| <a href="https://github.com/akshitadixit"><img src="https://avatars.githubusercontent.com/u/56997545?v=4" height="150px" width="150px"></a>|
+
 ##### Note: The voice modulation and GUI part is still being worked upon.
 
 ## Overall winner
