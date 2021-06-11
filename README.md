@@ -20,14 +20,14 @@
 * The idea behind this is to facilitate a video calling service built with python sockets(IPv4) and Open-CV, which replaces the users voice by a robotic/AI voice and the video by a neon projection of the users face on a black screen for anonimity purposes.
 
 ### A screenshot of the connected system is shown below:
-![ss](https://github.com/akshitadixit/VCallZer/blob/main/temp/ss.jpeg)
+<p align="center"><img width=35% src="https://github.com/akshitadixit/VCallZer/blob/main/temp/ss.jpeg"></p>
 
-## 📌 To-Do List/ In Progress⏳
+## 📌To-Do List/ In Progress⏳
 * Add documentation [#2](https://github.com/akshitadixit/VCallZer/issues/2)
 * Transfer audio over the connection [#3](https://github.com/akshitadixit/VCallZer/issues/3)
 * Improve facial landmark detection [#8](https://github.com/akshitadixit/VCallZer/issues/8)
  
-## 🛠 Setting up
+## 🛠Setting up
 
 **1.** Create a [Conda](https://docs.conda.io/en/latest/miniconda.html) environment.
 ```
@@ -48,13 +48,13 @@ conda install -c conda-forge dlib
 conda install -c conda-forge opencv
 ```
 
-## ✔ Running the code
+## ✔Running the code
 
 * Fork and clone this repo
 * Make sure your clone resides into the conda environment you created
 * Run server.py and client.py in two different cmd windows/terminals
 
-## 📌 How to get started❓
+## 📌How to get started❓
 
 You can refer to the following articles on the basics of Git and Github, in case you are stuck:
 
@@ -66,7 +66,7 @@ You can refer to the following articles on the basics of Git and Github, in case
 - [How to create a Pull Request](https://opensource.com/article/19/7/create-pull-request-github)
 - [Getting started with Git and GitHub](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6)
 
-## 🙌 Contribute to VCallZer
+## 🙌Contribute to VCallZer
 
 Are you a newbie in the world of open source and want to Contribute to our Open Source Project ?
 Don't worry we got your back 
@@ -134,7 +134,7 @@ git push -u origin <your_branch_name>
 
 ##### Note: The voice modulation and GUI part is still being worked upon.
 
-## ✨ Our valuable Contributors👩‍💻👨‍💻 :
+## ✨Our valuable Contributors👩‍💻👨‍💻 :
 <table>
   <tr>
     <td align="center"><a href="https://github.com/akshitadixit"><img src="https://avatars.githubusercontent.com/u/56997545?v=4" height="120px" width="120px"/><br/><sub><b>Akshita Dixit</b></sub></a></td>
