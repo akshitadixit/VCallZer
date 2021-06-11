@@ -1,4 +1,4 @@
-# VCallZer <img align="right" src="https://github.com/DSC-IIIT-Kalyani/winter-of-code/blob/main/images/logos/logo3.png">
+![VCallZer](https://user-images.githubusercontent.com/73739820/121726626-6df6cd80-cb08-11eb-97ab-5296246301ea.png)<img align="right" src="https://github.com/DSC-IIIT-Kalyani/winter-of-code/blob/main/images/logos/logo3.png">
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/akshitadixit/VCallZer) [![Open Source Love](https://img.shields.io/badge/Open%20Source-%F0%9F%A4%8D-Green)](https://github.com/akshitadixit/VCallZer) ![contributions welcome](https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3&style=flat-square)
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)  [![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/akshitadixit/VCallZer/graphs/commit-activity)
@@ -16,18 +16,22 @@
 
 
 
+
+## 📌 Introduction
 * The project was initiated during Winter of Code 1.0 by [DSC IIIT Kalyani](https://github.com/DSC-IIIT-Kalyani) and is currently under development.
 * The idea behind this is to facilitate a video calling service built with python sockets(IPv4) and Open-CV, which replaces the users voice by a robotic/AI voice and the video by a neon projection of the users face on a black screen for anonimity purposes.
+<br>
 
-### A screenshot of the connected system is shown below:
+### 📌 Snapshot of the connected system &#128247;
+---------------
 <p align="center"><img width=35% src="https://github.com/akshitadixit/VCallZer/blob/main/temp/ss.jpeg"></p>
 
-## 📌To-Do List/ In Progress⏳
+## 📌 To-Do List/ In Progress🔄
 * Add documentation [#2](https://github.com/akshitadixit/VCallZer/issues/2)
 * Transfer audio over the connection [#3](https://github.com/akshitadixit/VCallZer/issues/3)
 * Improve facial landmark detection [#8](https://github.com/akshitadixit/VCallZer/issues/8)
  
-## 🛠Setting up
+## 📌 Setting up 🛠
 
 **1.** Create a [Conda](https://docs.conda.io/en/latest/miniconda.html) environment.
 ```
@@ -48,15 +52,15 @@ conda install -c conda-forge dlib
 conda install -c conda-forge opencv
 ```
 
-## ✔Running the code
+## 📌 Running the code ✔
 
 * Fork and clone this repo
 * Make sure your clone resides into the conda environment you created
 * Run server.py and client.py in two different cmd windows/terminals
 
-## 📌How to get started❓
+## 📌 Getting Started ⭐
 
-You can refer to the following articles on the basics of Git and Github, in case you are stuck:
+Refer to the following articles on the basics of Git and Github and can also contact the Project Mentors, in case you are stuck:
 
 - If you don't have git on your machine, [install](https://help.github.com/articles/set-up-git/) it.
 - [Watch this video to get started, if you have no clue about open source](https://youtu.be/SL5KKdmvJ1U)
@@ -66,14 +70,16 @@ You can refer to the following articles on the basics of Git and Github, in case
 - [How to create a Pull Request](https://opensource.com/article/19/7/create-pull-request-github)
 - [Getting started with Git and GitHub](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6)
 
-## 🙌Contribute to VCallZer
+## 📜 Instructions to follow while contributing to VCallZer
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 Are you a newbie in the world of open source and want to Contribute to our Open Source Project ?
 Don't worry we got your back 
 
 Below are the steps to follow to contribute to this project:
 
-**1.**  Fork [this](https://github.com/akshitadixit/VCallZer) repository.
+**1.**  Fork [this](https://github.com/akshitadixit/VCallZer) repository.   
 
 **2.**  Clone your forked copy of the project.
 ```
@@ -117,6 +123,7 @@ git commit -m "Relevant message"
 ```
 git push -u origin <your_branch_name>
 ```
+<p align="center"><img width=35% src="https://media.giphy.com/media/cnhpl4IeYgU7MCBdV2/giphy.gif"></p>
 **12.** To create a pull request, click on `compare and pull requests`. Please ensure you compare your feature branch to the desired branch of the repo you are suppose to make a PR to.
 
 <img src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" width=600>
@@ -129,12 +136,19 @@ git push -u origin <your_branch_name>
 
 **15.** Hurray :exclamation: You have created a PR to the VCallZer :boom: . Sit back patiently and relax till then the project maintainers will review your PR. Please understand,  there will be some time taken to review a PR and can vary from a few hours to a few days too so be Patient and keep contributing.
 
-## Till Then 
-<p align="center"><img src="https://thumbs.dreamstime.com/b/keep-learning-word-written-wood-block-text-table-concept-175173431.jpg" width=30%></p>
+## 📌 Till Then 
+<p align="center"><img src="http://www.gurpreetsaluja.com/wp-content/uploads/2016/05/always-keep-learning.png" width=30%></p>
 
 ##### Note: The voice modulation and GUI part is still being worked upon.
 
-## 📌Guidelines for LGM-SOC'21
+<h2>👍OpenSource Program</h2>
+
+This project is a part of this open source progam.
+
+<a href="https://github.com/prathimacode-hub"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/OpenSource%20Programs/LetsGrowMore%20Summer%20Of%20Code.jpg" width=150px height=150px /></a>
+
+
+## 📌 Guidelines for LGM-SOC'21
 Expected time period for submitting a pull request for each level:
 - Level 1 - 1 Day
 - Level 2 - 2 Days
@@ -143,7 +157,8 @@ Expected time period for submitting a pull request for each level:
 
 If you need extra time, do comment on the issue and let the maintainer know.
 
-## ✨Our valuable Contributors👩‍💻👨‍💻 :
+## 📌 The geeks🤓 behind this initiative :
+Thanks goes to these Wonderful People. Contributions of any kind are welcome! :grinning:
 <table>
   <tr>
     <td align="center"><a href="https://github.com/akshitadixit"><img src="https://avatars.githubusercontent.com/u/56997545?v=4" height="120px" width="120px"/><br/><sub><b>Akshita Dixit</b></sub></a></td>
