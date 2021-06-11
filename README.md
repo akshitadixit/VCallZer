@@ -119,9 +119,13 @@ git push -u origin <your_branch_name>
 ```
 **12.** To create a pull request, click on `compare and pull requests`. Please ensure you compare your feature branch to the desired branch of the repo you are suppose to make a PR to.
 
+<img src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" width=600>
+
 **13.** Add appropriate title and description to your pull request explaining your changes and efforts done.
 
 **14.** Click on `Create Pull Request`.
+
+<img src="https://firstcontributions.github.io/assets/Readme/submit-pull-request.png" width=600>
 
 **15.** Hurray :exclamation: You have created a PR to the VCallZer :boom: . Sit back patiently and relax till then the project maintainers will review your PR. Please understand,  there will be some time taken to review a PR and can vary from a few hours to a few days too so be Patient and keep contributing.
 
@@ -131,9 +135,25 @@ git push -u origin <your_branch_name>
 ##### Note: The voice modulation and GUI part is still being worked upon.
 
 ## ✨ Our valuable Contributors👩‍💻👨‍💻 :
-| | | | | |
-|:--:|:--:|:--:|:--:|:--:|
-|<a href="https://github.com/akshitadixit"><img src="https://avatars.githubusercontent.com/u/56997545?v=4" height="150px" width="150px"></a>| <a href="https://github.com/ShivaSankeerth"><img src="https://avatars.githubusercontent.com/u/29270279?v=4" height="150px" width="150px"></a>| <a href="https://github.com/supzi-del"><img src="https://avatars.githubusercontent.com/u/78655439?v=4" height="150px" width="150px"></a>| <a href="https://github.com/Vedant-Jayesh-Oza"><img src="https://avatars.githubusercontent.com/u/75005433?v=4" height="150px" width="150px"></a>| <a href="https://github.com/akshitadixit"><img src="https://avatars.githubusercontent.com/u/56997545?v=4" height="150px" width="150px"></a>|
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/akshitadixit"><img src="https://avatars.githubusercontent.com/u/56997545?v=4" height="120px" width="120px"/><br/><sub><b>Akshita Dixit</b></sub></a></td>
+    <td align="center"><a href="https://github.com/ShivaSankeerth"><img src="https://avatars.githubusercontent.com/u/29270279?v=4" height="120px" width="120px"/><br/><sub><b>Shiva Sankeerth Reddy</b></sub></a></td>
+    <td align="center"><a href="https://github.com/supzi-del"><img src="https://avatars.githubusercontent.com/u/78655439?v=4" height="120px" width="120px"/><br/><sub><b>Supritha</b></sub></a></td>
+    <td align="center"><a href="https://github.com/Vedant-Jayesh-Oza"><img src="https://avatars.githubusercontent.com/u/75005433?v=4" height="120px" width="120px"/><br/><sub><b>Vedant Jayesh Oza</b></sub></a></td>
+    <td align="center"><a href="https://github.com/jigar-sable"><img src="https://avatars.githubusercontent.com/u/64949957?v=4" height="120px" width="120px"/><br/><sub><b>Jigar Sable</b></sub></a></td>
+   
+<!-- To add new contribution here copy remove the comment from the below code and edit it. -->
+<!--    <td align="center"><a href="https://github.com/jigar-sable"><img src="https://avatars.githubusercontent.com/u/64949957?v=4" height="120px" width="120px"/><br/><sub><b>Jigar Sable</b></sub></a></td> -->
+   
+</tr>
+</table>
 
-## Overall winner
-![Cert](https://github.com/akshitadixit/VCallZer/blob/main/temp/WoC.png) 
+
+
+## Overall Winner🏆
+<p align="center"><img src="https://github.com/akshitadixit/VCallZer/blob/main/temp/WoC.png" width=50%></p>
+
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) 
+[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com) 
