@@ -37,7 +37,7 @@ A screenshot of the connected system is shown below:
 ## Our valuable Contributors👩‍💻👨‍💻 :
 | | | | | |
 |:--:|:--:|:--:|:--:|:--:|
-|<a href="https://github.com/akshitadixit"><img src="https://avatars.githubusercontent.com/u/56997545?v=4" height="150px" width="150px"></a>| <a href="https://github.com/ShivaSankeerth"><img src="https://avatars.githubusercontent.com/u/29270279?v=4" height="150px" width="150px"></a>| <a href="https://github.com/supzi-del"><img src="https://avatars.githubusercontent.com/u/78655439?v=4" height="150px" width="150px"></a>| <a href="https://github.com/akshitadixit"><img src="https://avatars.githubusercontent.com/u/56997545?v=4" height="150px" width="150px"></a>| <a href="https://github.com/akshitadixit"><img src="https://avatars.githubusercontent.com/u/56997545?v=4" height="150px" width="150px"></a>|
+|<a href="https://github.com/akshitadixit"><img src="https://avatars.githubusercontent.com/u/56997545?v=4" height="150px" width="150px"></a>| <a href="https://github.com/ShivaSankeerth"><img src="https://avatars.githubusercontent.com/u/29270279?v=4" height="150px" width="150px"></a>| <a href="https://github.com/supzi-del"><img src="https://avatars.githubusercontent.com/u/78655439?v=4" height="150px" width="150px"></a>| <a href="https://github.com/suvrashaw"><img src="https://avatars.githubusercontent.com/u/56395895?v=4" height="150px" width="150px"></a>| <a href="https://github.com/akshitadixit"><img src="https://avatars.githubusercontent.com/u/56997545?v=4" height="150px" width="150px"></a>|
 
 
 
