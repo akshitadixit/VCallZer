@@ -134,6 +134,15 @@ git push -u origin <your_branch_name>
 
 ##### Note: The voice modulation and GUI part is still being worked upon.
 
+## 📌Guidelines for LGM-SOC'21
+Expected time period for submitting a pull request for each level:
+- Level 1 - 1 Day
+- Level 2 - 2 Days
+- Level 3 - 3 Days
+- Level 4 - 5-6 Days
+
+If you need extra time, do comment on the issue and let the maintainer know.
+
 ## ✨Our valuable Contributors👩‍💻👨‍💻 :
 <table>
   <tr>
