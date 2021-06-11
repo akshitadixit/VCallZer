@@ -1,5 +1,10 @@
 # VCallZer <img align="right" src="https://github.com/DSC-IIIT-Kalyani/winter-of-code/blob/main/images/logos/logo3.png">
 
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)  [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/akshitadixit/VCallZer/graphs/commit-activity)  [![GitHub forks](https://img.shields.io/github/forks/akshitadixit/VCallZer.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/akshitadixit/VCallZer/network)  [![GitHub stars](https://img.shields.io/github/stars/akshitadixit/VCallZer.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/akshitadixit/VCallZer/stargazers/)[![GitHub watchers](https://img.shields.io/github/watchers/Naereen/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/watchers/)
+
+
+
+
 * The project was initiated during Winter of Code 1.0 by [DSC IIIT Kalyani](https://github.com/DSC-IIIT-Kalyani) and is currently under development.
 * The idea behind this is to facilitate a video calling service built with python sockets(IPv4) and Open-CV, which replaces the users voice by a robotic/AI voice and the video by a neon projection of the users face on a black screen for anonimity purposes. 
 
@@ -33,7 +38,10 @@ A screenshot of the connected system is shown below:
 ## Our valuable Contributors👩‍💻👨‍💻 :
 | | | | | |
 |:--:|:--:|:--:|:--:|:--:|
-|<a href="https://github.com/Vedant-Jayesh-Oza"><img src="https://avatars.githubusercontent.com/u/75005433?v=4" height="150px" width="150px"></a>| <a href="https://github.com/ShivaSankeerth"><img src="https://avatars.githubusercontent.com/u/29270279?v=4" height="150px" width="150px"></a>| <a href="https://github.com/akshitadixit"><img src="https://avatars.githubusercontent.com/u/56997545?v=4" height="150px" width="150px"></a>| <a href="https://github.com/akshitadixit"><img src="https://avatars.githubusercontent.com/u/56997545?v=4" height="150px" width="150px"></a>| <a href="https://github.com/akshitadixit"><img src="https://avatars.githubusercontent.com/u/56997545?v=4" height="150px" width="150px"></a>|
+|<a href="https://github.com/akshitadixit"><img src="https://avatars.githubusercontent.com/u/56997545?v=4" height="150px" width="150px"></a>| <a href="https://github.com/ShivaSankeerth"><img src="https://avatars.githubusercontent.com/u/29270279?v=4" height="150px" width="150px"></a>| <a href="https://github.com/supzi-del"><img src="https://avatars.githubusercontent.com/u/78655439?v=4" height="150px" width="150px"></a>| <a href="https://github.com/Vedant-Jayesh-Oza"><img src="https://avatars.githubusercontent.com/u/75005433?v=4" height="150px" width="150px"></a>| <a href="https://github.com/akshitadixit"><img src="https://avatars.githubusercontent.com/u/56997545?v=4" height="150px" width="150px"></a>|
+
+
+
 
 
 # Contribute to VCallZer
@@ -155,6 +163,7 @@ Now submit the pull request.
 
 ## Till Then 
 <p align="center"><img src="https://thumbs.dreamstime.com/b/keep-learning-word-written-wood-block-text-table-concept-175173431.jpg" width=50%></p>
+
 
 
 ##### Note: The voice modulation and GUI part is still being worked upon.
