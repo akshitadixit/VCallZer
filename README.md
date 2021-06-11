@@ -163,5 +163,15 @@ Now submit the pull request.
 
 ##### Note: The voice modulation and GUI part is still being worked upon.
 
+## Guidelines for LGM-SOC'21
+
+Expected time period for submitting a pull request for each level:
+* Level 1 - 1 day
+* Level 2 - 2 days
+* Level 3 - 3 days
+* Level 4 - 5-6 days
+
+If you need extra time, do comment on the issue and let the maintainer know.
+
 ## Overall winner
 ![Cert](https://github.com/akshitadixit/VCallZer/blob/main/temp/WoC.png) 
