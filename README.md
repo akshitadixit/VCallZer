@@ -1,6 +1,7 @@
 # VCallZer <img align="right" src="https://github.com/DSC-IIIT-Kalyani/winter-of-code/blob/main/images/logos/logo3.png">
 
-[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)  [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/akshitadixit/VCallZer/graphs/commit-activity)  [![GitHub forks](https://img.shields.io/github/forks/akshitadixit/VCallZer.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/akshitadixit/VCallZer/network)  [![GitHub stars](https://img.shields.io/github/stars/akshitadixit/VCallZer.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/akshitadixit/VCallZer/stargazers/)
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)  [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/akshitadixit/VCallZer/graphs/commit-activity)  [![GitHub forks](https://img.shields.io/github/forks/akshitadixit/VCallZer.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/akshitadixit/VCallZer/network)  [![GitHub stars](https://img.shields.io/github/stars/akshitadixit/VCallZer.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/akshitadixit/VCallZer/stargazers/)[![GitHub watchers](https://img.shields.io/github/watchers/Naereen/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/watchers/)
+
 
 
 
