@@ -62,7 +62,7 @@ conda install -c conda-forge opencv
 
 Refer to the following articles on the basics of Git and Github and can also contact the Project Mentors, in case you are stuck:
 
-- If you don't have git on your machine, [install](https://help.github.com/articles/set-up-git/) it.
+- If you don't have git installed on your machine, [install](https://help.github.com/articles/set-up-git/) it.
 - [Watch this video to get started, if you have no clue about open source](https://youtu.be/SL5KKdmvJ1U)
 - [Forking a Repo](https://help.github.com/en/github/getting-started-with-github/fork-a-repo)
 - [Cloning a Repo](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository)
@@ -115,7 +115,7 @@ git checkout -b <your_branch_name>
 ```
 git add . 
 ```
-**10.** Commit your changes .
+**10.** Commit your changes with a commit message relevant to your changes .
 ```
 git commit -m "Relevant message"
 ```
@@ -128,7 +128,7 @@ git push -u origin <your_branch_name>
 
 <img src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" width=600>
 
-**13.** Add appropriate title and description to your pull request explaining your changes and efforts done.
+**13.** Add appropriate title and description to your pull request explaining your changes , also add the issue no using a '#' if your a fixing a particular issue listed on the repo.
 
 **14.** Click on `Create Pull Request`.
 
