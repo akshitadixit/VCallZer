@@ -17,12 +17,12 @@ while True:
     msg_size = struct.unpack("Q",packed_msg_size)[0]
     
     while len(data) < msg_size:
-        data += client_socket.recv(4*1024)
+        data += client_socket.recv(4*1024) #keep receiving till data size matches msg_size
     frame_data = data[:msg_size]
     data  = data[msg_size:]
     frame = pickle.loads(frame_data)
-    cv2.imshow("RECEIVING VIDEO",frame)
+    cv2.imshow("RECEIVING VIDEO",frame) #display 4k video 
     key = cv2.waitKey(1) & 0xFF
     if key  == ord('q'):
         break
-client_socket.close()
+client_socket.close() #end the socket
