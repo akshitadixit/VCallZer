@@ -165,7 +165,10 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome! :g
     <td align="center"><a href="https://github.com/ShivaSankeerth"><img src="https://avatars.githubusercontent.com/u/29270279?v=4" height="120px" width="120px"/><br/><sub><b>Shiva Sankeerth Reddy</b></sub></a></td>
     <td align="center"><a href="https://github.com/supzi-del"><img src="https://avatars.githubusercontent.com/u/78655439?v=4" height="120px" width="120px"/><br/><sub><b>Supritha</b></sub></a></td>
     <td align="center"><a href="https://github.com/Vedant-Jayesh-Oza"><img src="https://avatars.githubusercontent.com/u/75005433?v=4" height="120px" width="120px"/><br/><sub><b>Vedant Jayesh Oza</b></sub></a></td>
+ </tr>
+ <tr>
     <td align="center"><a href="https://github.com/jigar-sable"><img src="https://avatars.githubusercontent.com/u/64949957?v=4" height="120px" width="120px"/><br/><sub><b>Jigar Sable</b></sub></a></td>
+   <td align="center"><a href="https://github.com/Sidhved"><img src="https://avatars.githubusercontent.com/u/66831453?v=4" height="120px" width="120px"/><br/><sub><b>Sidhved Warik</b></sub></a></td>
    
 <!-- To add new contribution here copy remove the comment from the below code and edit it. -->
 <!--    <td align="center"><a href="https://github.com/jigar-sable"><img src="https://avatars.githubusercontent.com/u/64949957?v=4" height="120px" width="120px"/><br/><sub><b>Jigar Sable</b></sub></a></td> -->
