@@ -2,6 +2,8 @@ from tkinter import *
 from tkinter import ttk
 from PIL import Image, ImageTk
 
+
+#Calling Tkinter  Tk()
 root = Tk()
 style = ttk.Style(root)
 #adjust the path here according to your local env
