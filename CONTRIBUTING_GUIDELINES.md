@@ -1,4 +1,4 @@
-# Contributing Guidelines  
+## 📌Contributing Guidelines  
   
 This documentation contains a set of guidelines to help you during the contribution process.
  
@@ -6,7 +6,14 @@ We are happy to welcome all the contributions from anyone willing to improve thi
  
 - Participants are expected to follow project guidelines and coding style.
 - Each participant/contributor will be assigned **2 issues (max)** at a time to work on.
-- Participants/contributors have to give an update about their work in every **3 days** while completing issues. If not then the issue will be assigned to other.
+- Participants/contributors have to give an update about their work while completing issues. If not then the issue will be assigned to other. The expected time period for submitting a pull request for each level:
+  - Level 1 - 1 Day
+  - Level 2 - 2 Days
+  - Level 3 - 3 Days
+  - Level 4 - 5-6 Days
+   
+   If you need extra time, do comment on the issue and let the maintainer know.
+
 - Participants/contributors have to **comment** on issues they would like to work on, and mentors will assign you. Direct PRs for Open to all issues .
 - Issues will be assigned on a **first-come, first-serve basis**.
 - Participants/contributors can also **open their issues**, but it needs to be verified and labelled by a mentor.
