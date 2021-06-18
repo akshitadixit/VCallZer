@@ -1,6 +1,4 @@
 <div align="center">
-
- <img src="https://github.com/DSC-IIIT-Kalyani/winter-of-code/blob/main/images/logos/logo3.png">
  
 ![VCallZer](https://user-images.githubusercontent.com/73739820/121726626-6df6cd80-cb08-11eb-97ab-5296246301ea.png)
 
@@ -154,6 +152,7 @@ git push -u origin <your_branch_name>
 This project is a part of this open source progam.
 
 <a href="https://github.com/prathimacode-hub"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/OpenSource%20Programs/LetsGrowMore%20Summer%20Of%20Code.jpg" width=150px height=150px /></a>
+ <img src="https://github.com/DSC-IIIT-Kalyani/winter-of-code/blob/main/images/logos/logo3.png">
 
 
 ## 📌 Guidelines for LGM-SOC'21
