@@ -1,17 +1,23 @@
-![VCallZer](https://user-images.githubusercontent.com/73739820/121726626-6df6cd80-cb08-11eb-97ab-5296246301ea.png)<img align="right" src="https://github.com/DSC-IIIT-Kalyani/winter-of-code/blob/main/images/logos/logo3.png">
+<div align="center">
+ 
+![VCallZer](https://user-images.githubusercontent.com/73739820/121726626-6df6cd80-cb08-11eb-97ab-5296246301ea.png)
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/akshitadixit/VCallZer) [![Open Source Love](https://img.shields.io/badge/Open%20Source-%F0%9F%A4%8D-Green)](https://github.com/akshitadixit/VCallZer) ![contributions welcome](https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3&style=flat-square)
-[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)  [![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/akshitadixit/VCallZer/graphs/commit-activity)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/akshitadixit/VCallZer) 
+[![Open Source Love](https://img.shields.io/badge/Open%20Source-%F0%9F%A4%8D-Green)](https://github.com/akshitadixit/VCallZer) 
+[![contributions welcome](https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3&style=flat-square)](https://github.com/akshitadixit/VCallZer) 
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)  [![Maintenance](https://img.shields.io/badge/maintained-yes-brightgreen.svg)](https://github.com/akshitadixit/VCallZer/graphs/commit-activity)
 
-![GitHub contributors](https://img.shields.io/github/contributors-anon/akshitadixit/VCallZer) ![](https://badgen.net/github/stars/akshitadixit/VCallZer)
-![](https://badgen.net/github/forks/akshitadixit/VCallZer)
-![](https://badgen.net/github/open-issues/akshitadixit/VCallZer)
-![](https://badgen.net/github/closed-issues/akshitadixit/VCallZer)
-![](https://badgen.net/github/prs/akshitadixit/VCallZer)
-![](https://badgen.net/github/open-prs/akshitadixit/VCallZer)
-![](https://badgen.net/github/closed-prs/akshitadixit/VCallZer)
-
-[![GitHub forks](https://img.shields.io/github/forks/akshitadixit/VCallZer.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/akshitadixit/VCallZer/network)  [![GitHub stars](https://img.shields.io/github/stars/akshitadixit/VCallZer.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/akshitadixit/VCallZer/stargazers/)  [![GitHub watchers](https://img.shields.io/github/watchers/Naereen/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/watchers/)
+[![GitHub contributors](https://img.shields.io/github/contributors-anon/akshitadixit/VCallZer)](https://github.com/akshitadixit/VCallZer/graphs/contributors) 
+[![GitHub watchers](https://img.shields.io/github/watchers/akshitadixit/VCallZer)](https://github.com/akshitadixit/VCallZer/watchers)
+[![](https://badgen.net/github/stars/akshitadixit/VCallZer?color=yellow)](https://github.com/akshitadixit/VCallZer/stargazers)
+[![](https://badgen.net/github/forks/akshitadixit/VCallZer)](https://github.com/akshitadixit/VCallZer/network/members)
+[![](https://badgen.net/github/open-issues/akshitadixit/VCallZer)](https://github.com/akshitadixit/VCallZer/issues)
+[![](https://badgen.net/github/closed-issues/akshitadixit/VCallZer?color=yellow)](https://github.com/akshitadixit/VCallZer/issues?q=is%3Aissue+is%3Aclosed)
+[![](https://badgen.net/github/prs/akshitadixit/VCallZer)](https://github.com/akshitadixit/VCallZer/pulls)
+[![](https://badgen.net/github/open-prs/akshitadixit/VCallZer?color=green)](https://github.com/akshitadixit/VCallZer/pulls)
+[![](https://badgen.net/github/closed-prs/akshitadixit/VCallZer?color=yellow)](https://github.com/akshitadixit/VCallZer/pulls?q=is%3Apr+is%3Aclosed)
+ 
+</div>
 
 
 
@@ -146,6 +152,7 @@ git push -u origin <your_branch_name>
 This project is a part of this open source progam.
 
 <a href="https://github.com/prathimacode-hub"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/OpenSource%20Programs/LetsGrowMore%20Summer%20Of%20Code.jpg" width=150px height=150px /></a>
+ <img src="https://github.com/DSC-IIIT-Kalyani/winter-of-code/blob/main/images/logos/logo3.png">
 
 
 ## 📌 Guidelines for LGM-SOC'21
@@ -181,7 +188,9 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome! :g
 
 ## Overall Winner🏆
 <p align="center"><img src="https://github.com/akshitadixit/VCallZer/blob/main/temp/WoC.png" width=50%></p>
-
+<div align="center">
+ 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) 
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com) 
+</div>
