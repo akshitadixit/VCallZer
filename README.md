@@ -28,6 +28,11 @@
 * The idea behind this is to facilitate a video calling service built with python sockets(IPv4) and Open-CV, which replaces the users voice by a robotic/AI voice and the video by a neon projection of the users face on a black screen for anonimity purposes.
 <br>
 
+### 📌 Who can contribute? &#128247;
+* Pythonistas
+* Web developers
+* Beginner? Yes. Contact the project admin and mentor on discord for any help :)
+
 ### 📌 Snapshot of the connected system &#128247;
 ---------------
 <p align="center"><img width=35% src="https://github.com/akshitadixit/VCallZer/blob/main/temp/ss.jpeg"></p>
