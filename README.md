@@ -129,7 +129,6 @@ git commit -m "Relevant message"
 ```
 git push -u origin <your_branch_name>
 ```
-<p align="center"><img width=35% src="https://media.giphy.com/media/cnhpl4IeYgU7MCBdV2/giphy.gif"></p>
 **12.** To create a pull request, click on `compare and pull requests`. Please ensure you compare your feature branch to the desired branch of the repo you are suppose to make a PR to.
 
 <img src="https://firstcontributions.github.io/assets/Readme/compare-and-pull.png" width=600>
@@ -152,7 +151,7 @@ git push -u origin <your_branch_name>
 This project is a part of this open source progam.
 
 <a href="https://github.com/prathimacode-hub"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/OpenSource%20Programs/LetsGrowMore%20Summer%20Of%20Code.jpg" width=150px height=150px /></a>
- <img src="https://github.com/DSC-IIIT-Kalyani/winter-of-code/blob/main/images/logos/logo3.png">
+ <img src="https://github.com/DSC-IIIT-Kalyani/winter-of-code/blob/main/images/logos/logo3.png" width=150px height=150px>
 
 
 ## 📌 Guidelines for LGM-SOC'21
