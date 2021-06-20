@@ -29,6 +29,9 @@
 <br>
 
 
+<img src="https://github.com/akshitadixit/VCallZer/blob/Updated_Vcallzer_logo/media/logo%20vcallzer.gif">  
+
+
 ### 📌 Who can contribute? &#128247;
 * Pythonistas
 * Web developers
