@@ -29,7 +29,7 @@
 <br>
 
 
-<img src="https://github.com/akshitadixit/VCallZer/blob/Updated_Vcallzer_logo/media/logo%20vcallzer.gif">  
+<img src="https://github.com/akshitadixit/VCallZer/blob/main/media/logo%20vcallzer.gif">  
 
 
 
