@@ -188,6 +188,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome! :g
     <td align="center"><a href="https://github.com/erichamers"><img src="https://avatars.githubusercontent.com/u/28244037?v=4" height="120px" width="120px"/><br/><sub><b>Eric Hamers</b></sub></a></td>
     <td align="center"><a href="https://github.com/ayushsoni1010"><img src="https://avatars.githubusercontent.com/u/76895975?v=4" height="120px" width="120px"/><br/><sub><b>Ayush Soni</b></sub></a></td>
     <td align="center"><a href="https://github.com/Umesh-01"><img src="https://avatars.githubusercontent.com/u/83420185?v=4" height="120px" width="120px"/><br/><sub><b>Umesh Singh</b></sub></a></td>
+    <td align="center"><a href="https://github.com/SamrendraS"><img src="https://avatars.githubusercontent.com/u/43675000?v=4" height="120px" width="120px"/><br/><sub><b>Samrendra Kumar Singh</b></sub></a></td>
 
    <!-- To add new contribution here copy remove the comment from the below code and edit it. -->
    <!--    <td align="center"><a href="https://github.com/jigar-sable"><img src="https://avatars.githubusercontent.com/u/64949957?v=4" height="120px" width="120px"/><br/><sub><b>Jigar Sable</b></sub></a></td> -->
